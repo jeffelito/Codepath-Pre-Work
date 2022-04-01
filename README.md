@@ -40,9 +40,9 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![X](ezgif.com-gif-maker.gif)
-![](ezgif.com-gif-maker (1).gif)
-![](ezgif.com-gif-maker (2).gif)
-![](ezgif.com-gif-maker (3).gif)
+![X](ezgif.com-gif-maker (1).gif)
+![X](ezgif.com-gif-maker (2).gif)
+![X](ezgif.com-gif-maker (3).gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
