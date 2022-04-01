@@ -46,18 +46,16 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
-[YOUR ANSWER HERE]
+[I did not use any outside resources to help me complete this project, I followed the instructions that you guys provided.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
-[YOUR ANSWER HERE]
+[I don’t think I encountered any major challenges in creating this project. The instructions provided guided me through it, also I have experience with HTML and CSS. Writing the game logic, I thought was going to be challenging, but the visual picture provide for the game logic made it a bit easier. My code was kind of all over the place but after taking a peek at the game logic code that was provided it helped me change somethings around. I initially saved the files on my computer and uploaded them to GitHub from there, that kind of slowed me down on the submission because the instructions stated they had to be imported from glitch. But, overall everything was pretty simple from start to end and the instructions were there if I ran into any difficulties.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
-[YOUR ANSWER HERE]
+[Like I said in the previous question, I have experience with HTML and CSS. JavaScript not so much because I mostly code with C++. I don’t have many questions about web development yet, I feel like if I had questions they’ll mostly be about JavaScript, but I think when I run into something challenging it be better to ask questions then so I can know how to solve the problem on the stop. I’m also more of a visual learner so seeing it being done in front of me will be best for me.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
-[YOUR ANSWER HERE]
-
-
+[If I had more time to work on this project, I’ll probably just use it to make more modification to the game, so it can be something that I could use whenever I have free time. Some modifications I could make are adding more buttons to the game, also having the patterned changed after it had been solved. I feel like adding different modifications to the game will keep the players interested oin trying something else in the game.]
 
 ## Interview Recording URL Link
 
